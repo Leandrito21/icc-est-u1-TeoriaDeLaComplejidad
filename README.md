@@ -50,33 +50,42 @@ Esto generará una gráfica que muestra los tiempos de ejecución para cada algo
 
 ## 🧑‍💻 Ejemplo de Entrada
 
-Funciona
-Benchmarking instanciado
-Tamaño: 5000 - Metodo: burbuja - Tiempo: 1.839377 segundos
-Tamaño: 5000 - Metodo: burbuja mejorado - Tiempo: 2.097580 segundos
-Tamaño: 5000 - Metodo: seleccion - Tiempo: 1.327879 segundos
-Tamaño: 5000 - Metodo: insercion - Tiempo: 1.314255 segundos
-Tamaño: 5000 - Metodo: shell - Tiempo: 0.027960 segundos
-Tamaño: 10000 - Metodo: burbuja - Tiempo: 6.920994 segundos
-Tamaño: 10000 - Metodo: burbuja mejorado - Tiempo: 8.314577 segundos
-Tamaño: 10000 - Metodo: seleccion - Tiempo: 5.397149 segundos
-Tamaño: 10000 - Metodo: insercion - Tiempo: 5.235683 segundos
-Tamaño: 10000 - Metodo: shell - Tiempo: 0.075683 segundos
-Tamaño: 30000 - Metodo: burbuja - Tiempo: 62.921220 segundos
-Tamaño: 30000 - Metodo: burbuja mejorado - Tiempo: 73.043931 segundos
-Tamaño: 30000 - Metodo: seleccion - Tiempo: 48.082474 segundos
-Tamaño: 30000 - Metodo: insercion - Tiempo: 53.161619 segundos
-Tamaño: 30000 - Metodo: shell - Tiempo: 0.340011 segundos
-Tamaño: 50000 - Metodo: burbuja - Tiempo: 183.956650 segundos
-Tamaño: 50000 - Metodo: burbuja mejorado - Tiempo: 212.944460 segundos
-Tamaño: 50000 - Metodo: seleccion - Tiempo: 132.048211 segundos
-Tamaño: 50000 - Metodo: insercion - Tiempo: 136.550789 segundos
-Tamaño: 50000 - Metodo: shell - Tiempo: 0.591179 segundos
-Tamaño: 100000 - Metodo: burbuja - Tiempo: 780.062075 segundos
-Tamaño: 100000 - Metodo: burbuja mejorado - Tiempo: 798.567853 segundos
-Tamaño: 100000 - Metodo: seleccion - Tiempo: 320.062214 segundos
-Tamaño: 100000 - Metodo: insercion - Tiempo: 329.305965 segundos
-Tamaño: 100000 - Metodo: shell - Tiempo: 0.683319 segundos
+Funciona Benchmarking instanciado
+
+Tamaño: 5000
+- Método: burbuja - Tiempo: 1.839377 segundos
+- Método: burbuja mejorado - Tiempo: 2.097580 segundos
+- Método: selección - Tiempo: 1.327879 segundos
+- Método: inserción - Tiempo: 1.314255 segundos
+- Método: shell - Tiempo: 0.027960 segundos
+
+Tamaño: 10000
+- Método: burbuja - Tiempo: 6.920994 segundos
+- Método: burbuja mejorado - Tiempo: 8.314577 segundos
+- Método: selección - Tiempo: 5.397149 segundos
+- Método: inserción - Tiempo: 5.235683 segundos
+- Método: shell - Tiempo: 0.075683 segundos
+
+Tamaño: 30000
+- Método: burbuja - Tiempo: 62.921220 segundos
+- Método: burbuja mejorado - Tiempo: 73.043931 segundos
+- Método: selección - Tiempo: 48.082474 segundos
+- Método: inserción - Tiempo: 53.161619 segundos
+- Método: shell - Tiempo: 0.340011 segundos
+
+Tamaño: 50000
+- Método: burbuja - Tiempo: 183.956650 segundos
+- Método: burbuja mejorado - Tiempo: 212.944460 segundos
+- Método: selección - Tiempo: 132.048211 segundos
+- Método: inserción - Tiempo: 136.550789 segundos
+- Método: shell - Tiempo: 0.591179 segundos
+
+Tamaño: 100000
+- Método: burbuja - Tiempo: 780.062075 segundos
+- Método: burbuja mejorado - Tiempo: 798.567853 segundos
+- Método: selección - Tiempo: 320.062214 segundos
+- Método: inserción - Tiempo: 329.305965 segundos
+- Método: shell - Tiempo: 0.683319 segundos
 
 ## Grafica De Eficiencia de los Métodos
 ![Gráfica de rendimiento](imagen/img..jpg)
